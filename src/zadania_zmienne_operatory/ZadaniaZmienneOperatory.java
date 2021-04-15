@@ -15,5 +15,9 @@ public class ZadaniaZmienneOperatory {
         System.out.println("wiek: " + wiek);
         System.out.println("wzrost: " + wzrost);
         System.out.println("waga: " + waga);
+
+        float bmi = waga / (float) Math.pow(wzrost, 2);
+        System.out.println("BMI: " + bmi);
+
     }
 }
