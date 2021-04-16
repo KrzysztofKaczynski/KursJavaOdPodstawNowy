@@ -1,5 +1,7 @@
 package zadania_tablice;
 
+import java.util.Arrays;
+
 public class ZadaniaTablice {
     public static void main(String[] args){
       /*
@@ -28,6 +30,23 @@ public class ZadaniaTablice {
          Tym razem zsumuj elementy z każdego wiersza osobno i wypisz wynik na ekran.
        */
 
+        double[][] tab3 = new double[3][5];
+        tab3[0][0] = 1.1;
 
+        double [][] tab4= {
+                {0.0, 0.1, 0.2, 0.3, 0.4},
+                {1.0, 1.1, 1.2, 1.3, 1.4},
+                {2.0, 2.1, 2.2, 2.3, 2.4},
+        };
+
+        System.out.println("Zawartość tablicy tab4: " + Arrays.toString(tab4));
+        System.out.println("Suma wszystkich elementów tablicy: " + zliczTblice(tab4));
+    }
+    public static double zliczTblice(double[][] tab4) {
+        double wynik = 0;
+        for (double element : tab4) {
+            wynik += element;
+        }
+        return wynik;
     }
 }
