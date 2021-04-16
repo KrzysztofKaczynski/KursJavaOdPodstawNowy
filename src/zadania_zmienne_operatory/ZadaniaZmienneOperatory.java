@@ -19,5 +19,25 @@ public class ZadaniaZmienneOperatory {
         float bmi = waga / (float) Math.pow(wzrost, 2);
         System.out.println("BMI: " + bmi);
 
+        /*
+        Co ujrzymy na ekranie ?
+         */
+        int x = 5;
+        boolean wynikPierwszy = x < 10 || x != 0 || x > -1; // || - lub
+        boolean wynikDrugi = x < 10 && x !=0 && x > -1;     // && - i
+
+        System.out.println("Wynik pierwszy: " + wynikPierwszy);
+        System.out.println("Wynik pierwszy: " + wynikDrugi);
+
+        /*
+        Przypisz wartość przekraczającą poza int
+         */
+
+        int mojInt = 1000000000;
+        int pozaInt = mojInt + mojInt + mojInt;
+        int pozaIntInnySposob = Integer.MAX_VALUE;
+        System.out.println("Poza int: " + pozaInt);
+        System.out.println("Poza int: " + pozaIntInnySposob);
+
     }
 }
