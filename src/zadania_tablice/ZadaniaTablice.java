@@ -38,15 +38,9 @@ public class ZadaniaTablice {
                 {1.0, 1.1, 1.2, 1.3, 1.4},
                 {2.0, 2.1, 2.2, 2.3, 2.4},
         };
+        double pierwszyWiersz = tab4[0][0] + tab4[0][1] + tab4[0][2] + tab4[0][3] + tab4[0][4];
 
-        System.out.println("Zawartość tablicy tab4: " + Arrays.toString(tab4));
-        System.out.println("Suma wszystkich elementów tablicy: " + zliczTblice(tab4));
+        System.out.println("Suma 1 wiersz: " + pierwszyWiersz);
     }
-    public static double zliczTblice(double[][] tab4) {
-        double wynik = 0;
-        for (double element : tab4) {
-            wynik += element;
-        }
-        return wynik;
-    }
+
 }
