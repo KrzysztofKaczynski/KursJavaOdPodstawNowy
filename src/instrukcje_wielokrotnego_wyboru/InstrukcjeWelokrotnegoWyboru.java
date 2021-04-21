@@ -4,19 +4,14 @@ public class InstrukcjeWelokrotnegoWyboru {
     public static void main(String[] args) {
 
         int zmienna = 5;
-        switch (zmienna) {
-            case 1:
-                System.out.println("Jeden");
-                break;
-            case 2:
-                System.out.println("Dwa");
-                break;
-            case 3:
-                System.out.println("Trzy");
-                break;
-            default:
-                System.out.println("Nie spelniono pow. warunków");
-                break;
+        if (zmienna == 1) {
+            System.out.println("Jeden");
+        } else if (zmienna == 2) {
+            System.out.println("Dwa");
+        } else if (zmienna == 3) {
+            System.out.println("Trzy");
+        } else {
+            System.out.println("Nie spelniono pow. warunków");
         }
 
         char jedenZnak = 'a';
