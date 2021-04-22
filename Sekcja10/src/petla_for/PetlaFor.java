@@ -1,4 +1,4 @@
-package sekcja10_petla_for;
+package petla_for;
 
 public class PetlaFor {
     public static void main(String[] args) {

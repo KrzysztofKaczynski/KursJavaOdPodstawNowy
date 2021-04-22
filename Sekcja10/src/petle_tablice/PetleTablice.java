@@ -1,4 +1,4 @@
-package sekacja10_petle_tablice;
+package petle_tablice;
 
 /**
  * Created by Krzysztof Kaczynski on 17:48 - 22.04.2021.

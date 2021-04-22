@@ -1,4 +1,4 @@
-package sekcja10_petla_brake_continue;
+package petla_brake_continue;
 
 /**
  * Created by Krzysztof Kaczynski on 19:10 - 21.04.2021.

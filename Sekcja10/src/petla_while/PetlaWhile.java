@@ -1,4 +1,4 @@
-package sekcja10_petla_while;
+package petla_while;
 
 public class PetlaWhile {
     public static void main(String[] args) {
