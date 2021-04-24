@@ -6,7 +6,7 @@ public class Zad2 {
       /*
       Napisz program, które wypisze tylko liczby parzyste z zakresu od 0 do 30.
        */
-        for (int i = 0; i <= 30; i = i + 2) {
+        for (int i = 0; i <= 30; i +=  2) {
             System.out.print(i + " ");
         }
     }
