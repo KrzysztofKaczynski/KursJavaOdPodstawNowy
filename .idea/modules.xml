@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/KlasyMetodyFinal/KlasyMetodyFinal.iml" filepath="$PROJECT_DIR$/KlasyMetodyFinal/KlasyMetodyFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KlasyZadania/KlasyZadania.iml" filepath="$PROJECT_DIR$/KlasyZadania/KlasyZadania.iml" />
       <module fileurl="file://$PROJECT_DIR$/KursJava.iml" filepath="$PROJECT_DIR$/KursJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sekcja12_Klasy/Metody.iml" filepath="$PROJECT_DIR$/Sekcja12_Klasy/Metody.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sekcja12_Klasy/Metody1.iml" filepath="$PROJECT_DIR$/Sekcja12_Klasy/Metody1.iml" />
