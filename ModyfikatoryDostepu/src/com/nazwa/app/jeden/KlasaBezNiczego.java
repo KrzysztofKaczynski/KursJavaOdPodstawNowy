@@ -9,5 +9,6 @@ public class KlasaBezNiczego {
         obiekt.poleDziedziczenie = 12;
         obiekt.poleBezNiczego= 15;
         obiekt.polePubliczne =33;
+
     }
 }
