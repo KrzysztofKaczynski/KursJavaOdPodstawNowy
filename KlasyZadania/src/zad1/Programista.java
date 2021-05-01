@@ -5,10 +5,10 @@ package zad1;
  */
 public class Programista {
   //  public static void main(String[] args) {
-        private String imie;
-        private String nazwisko;
-        private String jezyk;
-        private double zarobki;
+        private final String imie;
+        private final String nazwisko;
+        private final String jezyk;
+        private final double zarobki;
 
     public Programista(String podajImie, String podajNazwisko, String podajJezyk, double podajZarobki) {
         imie = podajImie;
