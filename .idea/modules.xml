@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Dziedziczenie/Dziedziczenie.iml" filepath="$PROJECT_DIR$/Dziedziczenie/Dziedziczenie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KlasaObject/KlasaObject.iml" filepath="$PROJECT_DIR$/KlasaObject/KlasaObject.iml" />
       <module fileurl="file://$PROJECT_DIR$/KlasyMetodyFinal/KlasyMetodyFinal.iml" filepath="$PROJECT_DIR$/KlasyMetodyFinal/KlasyMetodyFinal.iml" />
       <module fileurl="file://$PROJECT_DIR$/KlasyZadania/KlasyZadania.iml" filepath="$PROJECT_DIR$/KlasyZadania/KlasyZadania.iml" />
       <module fileurl="file://$PROJECT_DIR$/KursJava.iml" filepath="$PROJECT_DIR$/KursJava.iml" />
