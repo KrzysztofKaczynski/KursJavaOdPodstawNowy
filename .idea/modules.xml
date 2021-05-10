@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Dziedziczenie/Dziedziczenie.iml" filepath="$PROJECT_DIR$/Dziedziczenie/Dziedziczenie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DziedziczenieZadanie/DziedziczenieZadanie.iml" filepath="$PROJECT_DIR$/DziedziczenieZadanie/DziedziczenieZadanie.iml" />
       <module fileurl="file://$PROJECT_DIR$/KlasaObject/KlasaObject.iml" filepath="$PROJECT_DIR$/KlasaObject/KlasaObject.iml" />
       <module fileurl="file://$PROJECT_DIR$/KlasyMetodyFinal/KlasyMetodyFinal.iml" filepath="$PROJECT_DIR$/KlasyMetodyFinal/KlasyMetodyFinal.iml" />
       <module fileurl="file://$PROJECT_DIR$/KlasyZadania/KlasyZadania.iml" filepath="$PROJECT_DIR$/KlasyZadania/KlasyZadania.iml" />
@@ -12,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/ModyfikatoryDostepu/ModyfikatoryDostepu.iml" filepath="$PROJECT_DIR$/ModyfikatoryDostepu/ModyfikatoryDostepu.iml" />
       <module fileurl="file://$PROJECT_DIR$/PolaStaticFinal/PolaStaticFinal.iml" filepath="$PROJECT_DIR$/PolaStaticFinal/PolaStaticFinal.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrzeslanianieMetod/PrzeslanianieMetod.iml" filepath="$PROJECT_DIR$/PrzeslanianieMetod/PrzeslanianieMetod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RzutowanieObiektow/RzutowanieObiektow.iml" filepath="$PROJECT_DIR$/RzutowanieObiektow/RzutowanieObiektow.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sekcja10_Petle/Sekcja10_Petle.iml" filepath="$PROJECT_DIR$/Sekcja10_Petle/Sekcja10_Petle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sekcja11_Petle_Zadania/Sekcja11_Petle_Zadania.iml" filepath="$PROJECT_DIR$/Sekcja11_Petle_Zadania/Sekcja11_Petle_Zadania.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sekcja12Metody/Sekcja12Metody.iml" filepath="$PROJECT_DIR$/Sekcja12Metody/Sekcja12Metody.iml" />
