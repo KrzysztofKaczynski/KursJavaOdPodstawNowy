@@ -24,6 +24,9 @@
       <module fileurl="file://$PROJECT_DIR$/Super/Super.iml" filepath="$PROJECT_DIR$/Super/Super.iml" />
       <module fileurl="file://$PROJECT_DIR$/SuperKonstruktor/SuperKonstruktor.iml" filepath="$PROJECT_DIR$/SuperKonstruktor/SuperKonstruktor.iml" />
       <module fileurl="file://$PROJECT_DIR$/This/This.iml" filepath="$PROJECT_DIR$/This/This.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WyjatkiObsluga/WyjatkiObsluga.iml" filepath="$PROJECT_DIR$/WyjatkiObsluga/WyjatkiObsluga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WyjatkiPrzenoszenie/WyjatkiPrzenoszenie.iml" filepath="$PROJECT_DIR$/WyjatkiPrzenoszenie/WyjatkiPrzenoszenie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WyjatkiTworzenie/WyjatkiTworzenie.iml" filepath="$PROJECT_DIR$/WyjatkiTworzenie/WyjatkiTworzenie.iml" />
     </modules>
   </component>
 </project>
