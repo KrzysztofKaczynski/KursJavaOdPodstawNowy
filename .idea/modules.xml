@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Dziedziczenie/Dziedziczenie.iml" filepath="$PROJECT_DIR$/Dziedziczenie/Dziedziczenie.iml" />
       <module fileurl="file://$PROJECT_DIR$/DziedziczenieZadanie/DziedziczenieZadanie.iml" filepath="$PROJECT_DIR$/DziedziczenieZadanie/DziedziczenieZadanie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KlasaAbstrakcyjna/KlasaAbstrakcyjna.iml" filepath="$PROJECT_DIR$/KlasaAbstrakcyjna/KlasaAbstrakcyjna.iml" />
       <module fileurl="file://$PROJECT_DIR$/KlasaAnonimowa/KlasaAnonimowa.iml" filepath="$PROJECT_DIR$/KlasaAnonimowa/KlasaAnonimowa.iml" />
       <module fileurl="file://$PROJECT_DIR$/KlasaObject/KlasaObject.iml" filepath="$PROJECT_DIR$/KlasaObject/KlasaObject.iml" />
       <module fileurl="file://$PROJECT_DIR$/KlasaWewnetrzna/KlasaWewnetrzna.iml" filepath="$PROJECT_DIR$/KlasaWewnetrzna/KlasaWewnetrzna.iml" />
