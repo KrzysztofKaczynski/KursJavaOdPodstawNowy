@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Dziedziczenie/Dziedziczenie.iml" filepath="$PROJECT_DIR$/Dziedziczenie/Dziedziczenie.iml" />
       <module fileurl="file://$PROJECT_DIR$/DziedziczenieZadanie/DziedziczenieZadanie.iml" filepath="$PROJECT_DIR$/DziedziczenieZadanie/DziedziczenieZadanie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/KlasaAbstrakcyjna/KlasaAbstrakcyjna.iml" filepath="$PROJECT_DIR$/KlasaAbstrakcyjna/KlasaAbstrakcyjna.iml" />
       <module fileurl="file://$PROJECT_DIR$/KlasaAnonimowa/KlasaAnonimowa.iml" filepath="$PROJECT_DIR$/KlasaAnonimowa/KlasaAnonimowa.iml" />
       <module fileurl="file://$PROJECT_DIR$/KlasaObject/KlasaObject.iml" filepath="$PROJECT_DIR$/KlasaObject/KlasaObject.iml" />
@@ -30,6 +31,7 @@
       <module fileurl="file://$PROJECT_DIR$/WyjatkiObsluga/WyjatkiObsluga.iml" filepath="$PROJECT_DIR$/WyjatkiObsluga/WyjatkiObsluga.iml" />
       <module fileurl="file://$PROJECT_DIR$/WyjatkiPrzenoszenie/WyjatkiPrzenoszenie.iml" filepath="$PROJECT_DIR$/WyjatkiPrzenoszenie/WyjatkiPrzenoszenie.iml" />
       <module fileurl="file://$PROJECT_DIR$/WyjatkiTworzenie/WyjatkiTworzenie.iml" filepath="$PROJECT_DIR$/WyjatkiTworzenie/WyjatkiTworzenie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZadaniaKlasaAbstrakcyjnaInterfejs/ZadaniaKlasaAbstrakcyjnaInterfejs.iml" filepath="$PROJECT_DIR$/ZadaniaKlasaAbstrakcyjnaInterfejs/ZadaniaKlasaAbstrakcyjnaInterfejs.iml" />
       <module fileurl="file://$PROJECT_DIR$/ZadaniaWyjatki/ZadaniaWyjatki.iml" filepath="$PROJECT_DIR$/ZadaniaWyjatki/ZadaniaWyjatki.iml" />
     </modules>
   </component>
