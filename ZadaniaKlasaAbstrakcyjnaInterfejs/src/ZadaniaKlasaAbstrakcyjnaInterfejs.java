@@ -44,5 +44,18 @@ Stwórz interfejs wewnętrzny o nazwie "Info" z metodą “wyswietlInfo” w kla
   aby wypisywała tekst “informacja wypisana z klasy anonimowej”.
    Następnie wywołaj tę metodę “wyswietlInfo” i sprawdź czy prawidłowo została stworzona klasa anonimowa.
          */
+        System.out.println("Zadanie 3");
+        Info infoAnonimowe = new Info() {
+
+            @Override
+            public void wyswietlInfo() {
+                System.out.println("Informacja wypisana z klasy anonimowej");
+            }
+        };
+        infoAnonimowe.wyswietlInfo();
+    }
+
+    interface Info {
+        void wyswietlInfo();
     }
 }
